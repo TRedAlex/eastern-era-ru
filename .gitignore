@@ -1,0 +1,3 @@
+# Builds go to GitHub Releases, not into the repository.
+*.pak
+*.zip
